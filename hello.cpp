@@ -57,10 +57,13 @@
     </nav>
     <main>
         <h2>Home</h2>
-        <p>This is the home page of my simple website. Here you can find some basic information about the site.</p>
+        <p>This is the home page of Bhoumik's simple website. This is a simple website done by Bhoumik and made some changes by Shridhar .</p>
     </main>
     <footer>
         <p>&copy; 2025 Simple Website. All rights reserved.</p>
     </footer>
 </body>
 </html>
+
+
+        
